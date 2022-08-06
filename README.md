@@ -1,4 +1,4 @@
-[![MasterHead](https://im3.ezgif.com/tmp/ezgif-3-b40c0f5bdd.gif)
+![MasterHead](https://im3.ezgif.com/tmp/ezgif-3-b40c0f5bdd.gif)
 <h1 align="center">Hi 👋, I'm Fazry</h1>
 <h3 align="center">Former Mechanical Engineer| Developing more than just code | Tech Enthusiast | Self Taught Programmer |</h3>
 
