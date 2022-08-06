@@ -1,6 +1,8 @@
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/59/bf/96/59bf96fde108d05bbaa2f096de0934d5.gif">
 <h1 align="center">Hi 👋, I'm Fazry</h1>
 <h3 align="center">Former Mechanical Engineer| Developing more than just code | Tech Enthusiast | Self Taught Programmer |</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/59/bf/96/59bf96fde108d05bbaa2f096de0934d5.gif">
+
 
 - 🌱 I’m currently learning **MEAN STACK for Web Development**
 
