@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Fazry</h1>
 <h3 align="center">Former Mechanical Engineer| Developing more than just code | Tech Enthusiast | Self Taught Programmer |</h3>
 
-
 - 🌱 I’m currently learning **MEAN STACK for Web Development**
+
+- 👯 I’m looking for work **Any software engineer roles**
 
 - 💬 Ask me about **Engineering & Web development**
 
