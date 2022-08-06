@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazryazril&label=Profile%20views&color=0e75b6&style=flat" alt="fazryazril" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazryazril" alt="fazryazril" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/_fazryazril" target="blank"><img src="https://img.shields.io/twitter/follow/_fazryazril?logo=twitter&style=for-the-badge" alt="_fazryazril" /></a> </p>
-
 - 🌱 I’m currently learning **MEAN STACK for Web Development**
 
 - 💬 Ask me about **Engineering & Web development**
