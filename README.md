@@ -1,6 +1,4 @@
 ![MasterHead](https://user-images.githubusercontent.com/105218118/183379397-bd422789-51ec-43bb-9882-36e6db3c1e26.gif)
-
-om/105218118/183379143-38e1e0f0-da4c-40da-875f-fc25c556ccec.gif)
 <h1 align="center">Hi 👋, I'm Fazry</h1>
 <h3 align="center">Former Mechanical Engineer| Developing more than just code | Tech Enthusiast | Self Taught Programmer |</h3>
 
