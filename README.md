@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/105218118/183379397-bd422789-51ec-43bb-9882-36e6db3c1e26.gif)
 <h1 align="center">Hi 👋, I'm Fazry</h1>
-<h3 align="center">Former Mechanical Engineer | Developing more than just code | Tech Enthusiast | Self Taught Programmer |</h3>
+<h3 align="center">Former Mechanical Engineer | Developing more than just code | Tech Enthusiast | Self Taught Programmer </h3>
 
 - 🌱 I’m currently learning **MEAN STACK for Web Development**
 
